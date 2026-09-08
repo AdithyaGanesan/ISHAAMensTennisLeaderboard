@@ -23,14 +23,14 @@ jobs:
 
       - name: Run scraper (pulls new matches only)
         working-directory: TennisLeaderboard
-        run: python3 usta_scraper.py
+        run: python3 tTest.py
 
       - name: Compute leaderboard and push to website
         working-directory: TennisLeaderboard
         env:
           LEADERBOARD_ENDPOINT_URL: ${{ secrets.LEADERBOARD_ENDPOINT_URL }}
           LEADERBOARD_UPDATE_SECRET: ${{ secrets.LEADERBOARD_UPDATE_SECRET }}
-        run: python3 compute_leaderboards_real.py
+        run: python3 tLeaderboard.py
 
       - name: Commit updated data files back to the repo
         run: |

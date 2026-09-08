@@ -1,5 +1,8 @@
 name: Update Tennis Leaderboard
 
+permissions: 
+  contents: write
+
 on:
   schedule:
     - cron: "0 11 * * *"

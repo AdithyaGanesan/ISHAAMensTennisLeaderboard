@@ -8,7 +8,7 @@ shared results — adapted here for how high school tennis actually works:
 singles, doubles, lineup position, and season-long form rather than a fixed
 skill rating.
 
-**Live site:** [Website] (https://intennisleaderboard.lovable.app/)
+**Live site:** https://intennisleaderboard.lovable.app/
 
 ## How it works
 

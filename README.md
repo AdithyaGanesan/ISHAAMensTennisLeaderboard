@@ -12,11 +12,11 @@ skill rating.
 
 ## How it works
 
-1. **`usta_scraper.py`** pulls completed match results directly from USTA
+1. **`tTest.py`** pulls completed match results directly from USTA
    Serve Tennis's public API (no browser required — it replays the same
    GraphQL calls the site itself uses). It's incremental: each run only
    fetches matches it hasn't already seen, tracked in `seen_match_ids.json`.
-2. **`compute_leaderboards_real.py`** reads the scraped data
+2. **`tLeaderboard.py`** reads the scraped data
    (`boys_matches.json`) and computes a rating for every singles player and
    every doubles pair (pairs are rated as a single unit, not split into
    individual credit). It then pushes the results to the live site via an

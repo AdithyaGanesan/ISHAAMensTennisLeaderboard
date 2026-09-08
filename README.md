@@ -2,4 +2,4 @@
 Built by Adithya Ganesan, with some programming done via Claude. 
 
 Indiana High School Mens' Tennis leaderboard program based off of reported results on USTA.
-Leaderboards can be generated through this script, however, they are also hosted on a website. (url to be given)
+Leaderboards can be generated through this script, however, they are also hosted on a [website](https://intennisleaderboard.lovable.app/)

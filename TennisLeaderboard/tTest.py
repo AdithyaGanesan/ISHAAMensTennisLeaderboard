@@ -1,3 +1,5 @@
+#This file tests scraping capabilities
+
 import json
 import os
 import time

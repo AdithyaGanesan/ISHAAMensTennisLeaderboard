@@ -21,10 +21,15 @@ skill rating.
    every doubles pair (pairs are rated as a single unit, not split into
    individual credit). It then pushes the results to the live site via an
    API endpoint.
-3. **GitHub Actions** (`.github/workflows/update-leaderboard.yml`) runs both
+3. **`BradleyTerry.py`** reads the scraped data and computes a rating for every
+   singles player and doubles pair. An attempt to improve the flawed rating system
+   created by tLeaderboard.py, specifically addressing gaps in match toughness. 
+   Uses a Bradley-Terry model to estimate latent individual strength from data.
+
+4. **GitHub Actions** (`.github/workflows/update-leaderboard.yml`) runs both
    scripts automatically, twice a day, and commits the updated data files
    back to this repo so state persists between runs.
-4. **Lovable** hosts the frontend, reading the rating data pushed to it by
+5. **Lovable** hosts the frontend, reading the rating data pushed to it by
    step 2.
 
 See the website for the methodology for calculations. 

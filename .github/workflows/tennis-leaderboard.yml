@@ -33,7 +33,7 @@ jobs:
         env:
           LEADERBOARD_ENDPOINT_URL: ${{ secrets.LEADERBOARD_ENDPOINT_URL }}
           LEADERBOARD_UPDATE_SECRET: ${{ secrets.LEADERBOARD_UPDATE_SECRET }}
-        run: python3 tLeaderboard.py
+        run: python3 BradleyTerry.py
 
       - name: Commit updated data files back to the repo
         run: |

@@ -22,7 +22,7 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install requests numpy
+        run: pip install requests numpy scipy
 
       - name: Run scraper (pulls new matches only)
         working-directory: TennisLeaderboard

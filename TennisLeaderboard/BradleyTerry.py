@@ -17,8 +17,8 @@ OUTCOME_PSEUDO_GAMES = 4.0   # "virtual" games added to the actual match
                               # OUTCOME_WEIGHT but expressed as pseudo-data
                               # instead of an additive score term.
  
-SINGLES_POSITION_WEIGHTS = {1: 1.5, 2: 1.2, 3: 1.0}
-DOUBLES_POSITION_WEIGHTS = {1: 1.25, 2: 1.0}
+SINGLES_POSITION_WEIGHTS = {1: 2.0, 2: 1.5, 3: 1.0}
+DOUBLES_POSITION_WEIGHTS = {1: 1.5, 2: 1.0}
  
 L2_REG = 0.02   # small amount kept purely for numerical identifiability
                  # (Bradley-Terry ratings are only defined up to a shared

@@ -888065,5 +888065,1576 @@
       }
     ],
     "_gender": "MALE"
+  },
+  {
+    "id": "9288C573-E654-494E-A5FC-725234878007",
+    "startDateTime": {
+      "timezoneName": "America/New_York",
+      "dateTimeString": "2026-10-10T16:00:00.000Z",
+      "noScheduledTime": false
+    },
+    "homeTeam": null,
+    "scoringFormat": null,
+    "tieFormat": {
+      "name": "3S 2D Full Sets",
+      "collectionDefinitions": [
+        {
+          "name": "Indiana HS Match ",
+          "id": "2D68D12D-568A-41AD-B907-78056BC71144",
+          "matchUpType": "SINGLES"
+        },
+        {
+          "name": "Indiana HS Match",
+          "id": "254A33E4-213D-41F6-BF83-571DA309FD10",
+          "matchUpType": "DOUBLES"
+        }
+      ]
+    },
+    "tieMatchUps": [
+      {
+        "type": "SINGLES",
+        "status": "COMPLETED",
+        "collectionId": "2D68D12D-568A-41AD-B907-78056BC71144",
+        "collectionPosition": 1,
+        "side1": {
+          "team": {
+            "abbreviation": "DHS"
+          },
+          "displayStatus": {
+            "status": "WINNER",
+            "subStatus": null
+          },
+          "participants": [
+            {
+              "personId": "93EF53E6-AAC2-481E-A614-6F8AA33B81BA",
+              "firstName": "Jackson",
+              "lastName": "Darby"
+            }
+          ],
+          "score": {
+            "scoreString": "6-4 6-3",
+            "sets": [
+              {
+                "setScore": "6",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": true
+              },
+              {
+                "setScore": "6",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": true
+              }
+            ]
+          },
+          "didWin": true
+        },
+        "side2": {
+          "team": {
+            "abbreviation": "PHS"
+          },
+          "displayStatus": null,
+          "participants": [
+            {
+              "personId": "CD0D5E02-D8E2-4219-8541-4F664838F877",
+              "firstName": "Dylan",
+              "lastName": "Albert"
+            }
+          ],
+          "score": {
+            "scoreString": "4-6 3-6",
+            "sets": [
+              {
+                "setScore": "4",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": false
+              },
+              {
+                "setScore": "3",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": false
+              }
+            ]
+          },
+          "didWin": false
+        }
+      },
+      {
+        "type": "SINGLES",
+        "status": "COMPLETED",
+        "collectionId": "2D68D12D-568A-41AD-B907-78056BC71144",
+        "collectionPosition": 2,
+        "side1": {
+          "team": {
+            "abbreviation": "DHS"
+          },
+          "displayStatus": {
+            "status": "WINNER",
+            "subStatus": null
+          },
+          "participants": [
+            {
+              "personId": "45520A66-2B92-4D45-B540-77557948103F",
+              "firstName": "Charles",
+              "lastName": "Vannatter"
+            }
+          ],
+          "score": {
+            "scoreString": "7-5 6-2",
+            "sets": [
+              {
+                "setScore": "7",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": true
+              },
+              {
+                "setScore": "6",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": true
+              }
+            ]
+          },
+          "didWin": true
+        },
+        "side2": {
+          "team": {
+            "abbreviation": "PHS"
+          },
+          "displayStatus": null,
+          "participants": [
+            {
+              "personId": "ADD36D1D-E6F9-41BC-A1EA-41BD0C146127",
+              "firstName": "Joshua",
+              "lastName": "Weaver"
+            }
+          ],
+          "score": {
+            "scoreString": "5-7 2-6",
+            "sets": [
+              {
+                "setScore": "5",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": false
+              },
+              {
+                "setScore": "2",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": false
+              }
+            ]
+          },
+          "didWin": false
+        }
+      },
+      {
+        "type": "SINGLES",
+        "status": "COMPLETED",
+        "collectionId": "2D68D12D-568A-41AD-B907-78056BC71144",
+        "collectionPosition": 3,
+        "side1": {
+          "team": {
+            "abbreviation": "DHS"
+          },
+          "displayStatus": {
+            "status": "WINNER",
+            "subStatus": null
+          },
+          "participants": [
+            {
+              "personId": "396FDA4B-B523-4719-B52B-8706617C1453",
+              "firstName": "Luke",
+              "lastName": "Atkinson"
+            }
+          ],
+          "score": {
+            "scoreString": "6-4 6-3",
+            "sets": [
+              {
+                "setScore": "6",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": true
+              },
+              {
+                "setScore": "6",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": true
+              }
+            ]
+          },
+          "didWin": true
+        },
+        "side2": {
+          "team": {
+            "abbreviation": "PHS"
+          },
+          "displayStatus": null,
+          "participants": [
+            {
+              "personId": "234CDCDB-D9B0-4F54-A65F-3E2D953194D6",
+              "firstName": "Harrison",
+              "lastName": "Striegel"
+            }
+          ],
+          "score": {
+            "scoreString": "4-6 3-6",
+            "sets": [
+              {
+                "setScore": "4",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": false
+              },
+              {
+                "setScore": "3",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": false
+              }
+            ]
+          },
+          "didWin": false
+        }
+      },
+      {
+        "type": "DOUBLES",
+        "status": "COMPLETED",
+        "collectionId": "254A33E4-213D-41F6-BF83-571DA309FD10",
+        "collectionPosition": 1,
+        "side1": {
+          "team": {
+            "abbreviation": "DHS"
+          },
+          "displayStatus": {
+            "status": "WINNER",
+            "subStatus": null
+          },
+          "participants": [
+            {
+              "personId": "116662B3-DCF0-46F5-A2D5-D6B887B146E4",
+              "firstName": "Brandon",
+              "lastName": "Grubbs"
+            },
+            {
+              "personId": "9125EC43-E244-487B-BAC2-2C0791E2B417",
+              "firstName": "Tyce",
+              "lastName": "Dishman"
+            }
+          ],
+          "score": {
+            "scoreString": "6-3 6-2",
+            "sets": [
+              {
+                "setScore": "6",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": true
+              },
+              {
+                "setScore": "6",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": true
+              }
+            ]
+          },
+          "didWin": true
+        },
+        "side2": {
+          "team": {
+            "abbreviation": "PHS"
+          },
+          "displayStatus": null,
+          "participants": [
+            {
+              "personId": "2D7A788D-884F-4FED-A25B-A0AE20C456C6",
+              "firstName": "Will",
+              "lastName": "Denniston"
+            },
+            {
+              "personId": "9A1CFECE-5577-49B7-B907-75F2523FD65F",
+              "firstName": "Aaron",
+              "lastName": "Yoon"
+            }
+          ],
+          "score": {
+            "scoreString": "3-6 2-6",
+            "sets": [
+              {
+                "setScore": "3",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": false
+              },
+              {
+                "setScore": "2",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": false
+              }
+            ]
+          },
+          "didWin": false
+        }
+      },
+      {
+        "type": "DOUBLES",
+        "status": "COMPLETED",
+        "collectionId": "254A33E4-213D-41F6-BF83-571DA309FD10",
+        "collectionPosition": 2,
+        "side1": {
+          "team": {
+            "abbreviation": "DHS"
+          },
+          "displayStatus": {
+            "status": "WINNER",
+            "subStatus": null
+          },
+          "participants": [
+            {
+              "personId": "3A33F8D0-BD1E-4DE4-AE35-8C69DDFEB03A",
+              "firstName": "Easton",
+              "lastName": "Duckworth"
+            },
+            {
+              "personId": "B585B9E9-2489-40A7-83D1-B8CA2BA406C4",
+              "firstName": "Roman",
+              "lastName": "Ashcraft"
+            }
+          ],
+          "score": {
+            "scoreString": "6-3 6-4",
+            "sets": [
+              {
+                "setScore": "6",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": true
+              },
+              {
+                "setScore": "6",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": true
+              }
+            ]
+          },
+          "didWin": true
+        },
+        "side2": {
+          "team": {
+            "abbreviation": "PHS"
+          },
+          "displayStatus": null,
+          "participants": [
+            {
+              "personId": "184FDC4B-FBC8-4A55-89F2-9244B2E9EB80",
+              "firstName": "Aaron",
+              "lastName": "Zhang"
+            },
+            {
+              "personId": "93039C38-1159-4664-BC69-33F984270336",
+              "firstName": "Maxwell",
+              "lastName": "Shook"
+            }
+          ],
+          "score": {
+            "scoreString": "3-6 4-6",
+            "sets": [
+              {
+                "setScore": "3",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": false
+              },
+              {
+                "setScore": "4",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": false
+              }
+            ]
+          },
+          "didWin": false
+        }
+      }
+    ],
+    "teams": [
+      {
+        "id": "a0bbc232-337e-4b82-b650-f1855bbbae5b",
+        "name": "Boys Varsity",
+        "score": "5",
+        "didWin": true,
+        "sideNumber": 1,
+        "abbreviation": "DHS",
+        "division": null,
+        "conference": null,
+        "displayOrder": 1,
+        "parentOrganisation": {
+          "name": "Delta High School",
+          "organisation": {
+            "profileImage": {
+              "small": "https://prd0usta0cspark.blob.core.windows.net/image-uploads/e3f8077f-118f-4d9e-b988-7245f2e8bcab.jpeg"
+            }
+          }
+        }
+      },
+      {
+        "id": "36a7f55b-390a-4b2c-9b20-ca0c8ea8f53f",
+        "name": "Boys Varsity",
+        "score": "0",
+        "didWin": false,
+        "sideNumber": 2,
+        "abbreviation": "PHS",
+        "division": null,
+        "conference": null,
+        "displayOrder": 2,
+        "parentOrganisation": {
+          "name": "Penn High School",
+          "organisation": {
+            "profileImage": {
+              "small": null
+            }
+          }
+        }
+      }
+    ],
+    "_gender": "MALE"
+  },
+  {
+    "id": "2BAC74B4-323D-4984-8347-61B43D81FE62",
+    "startDateTime": {
+      "timezoneName": "America/New_York",
+      "dateTimeString": "2026-10-10T16:00:00.000Z",
+      "noScheduledTime": false
+    },
+    "homeTeam": null,
+    "scoringFormat": null,
+    "tieFormat": {
+      "name": "3S 2D Full Sets",
+      "collectionDefinitions": [
+        {
+          "name": "Indiana HS Match ",
+          "id": "1AE13033-D378-4C17-AD30-4BD714B1F345",
+          "matchUpType": "SINGLES"
+        },
+        {
+          "name": "Indiana HS Match",
+          "id": "207ED841-53FA-4F0B-844F-520A1974E066",
+          "matchUpType": "DOUBLES"
+        }
+      ]
+    },
+    "tieMatchUps": [
+      {
+        "type": "SINGLES",
+        "status": "TO_BE_PLAYED",
+        "collectionId": "1AE13033-D378-4C17-AD30-4BD714B1F345",
+        "collectionPosition": 1,
+        "side1": {
+          "team": {
+            "abbreviation": "SJHS"
+          },
+          "displayStatus": null,
+          "participants": [
+            {
+              "personId": "69CBF702-A770-4672-9558-E7DF42B7AE7C",
+              "firstName": "Jacob",
+              "lastName": "Hix"
+            }
+          ],
+          "score": null,
+          "didWin": false
+        },
+        "side2": {
+          "team": {
+            "abbreviation": "TCA"
+          },
+          "displayStatus": null,
+          "participants": [],
+          "score": null,
+          "didWin": false
+        }
+      },
+      {
+        "type": "SINGLES",
+        "status": "TO_BE_PLAYED",
+        "collectionId": "1AE13033-D378-4C17-AD30-4BD714B1F345",
+        "collectionPosition": 2,
+        "side1": {
+          "team": {
+            "abbreviation": "SJHS"
+          },
+          "displayStatus": null,
+          "participants": [
+            {
+              "personId": "7C5310F1-7300-4369-BAB8-1A392F012093",
+              "firstName": "Oliver",
+              "lastName": "Hix"
+            }
+          ],
+          "score": null,
+          "didWin": false
+        },
+        "side2": {
+          "team": {
+            "abbreviation": "TCA"
+          },
+          "displayStatus": null,
+          "participants": [],
+          "score": null,
+          "didWin": false
+        }
+      },
+      {
+        "type": "SINGLES",
+        "status": "TO_BE_PLAYED",
+        "collectionId": "1AE13033-D378-4C17-AD30-4BD714B1F345",
+        "collectionPosition": 3,
+        "side1": {
+          "team": {
+            "abbreviation": "SJHS"
+          },
+          "displayStatus": null,
+          "participants": [
+            {
+              "personId": "2BC9FF67-3D48-4113-B373-CDE13C0D6E45",
+              "firstName": "Jaxson",
+              "lastName": "Ashfeld"
+            }
+          ],
+          "score": null,
+          "didWin": false
+        },
+        "side2": {
+          "team": {
+            "abbreviation": "TCA"
+          },
+          "displayStatus": null,
+          "participants": [],
+          "score": null,
+          "didWin": false
+        }
+      },
+      {
+        "type": "DOUBLES",
+        "status": "TO_BE_PLAYED",
+        "collectionId": "207ED841-53FA-4F0B-844F-520A1974E066",
+        "collectionPosition": 1,
+        "side1": {
+          "team": {
+            "abbreviation": "SJHS"
+          },
+          "displayStatus": null,
+          "participants": [
+            {
+              "personId": "92EB73C6-C03C-49EC-B9BB-59631A4856D4",
+              "firstName": "Benedict",
+              "lastName": "Griffin"
+            },
+            {
+              "personId": "A77B0348-A43B-4A3A-AD96-F9EFE8380E45",
+              "firstName": "Jack",
+              "lastName": "Mattison"
+            }
+          ],
+          "score": null,
+          "didWin": false
+        },
+        "side2": {
+          "team": {
+            "abbreviation": "TCA"
+          },
+          "displayStatus": null,
+          "participants": [],
+          "score": null,
+          "didWin": false
+        }
+      },
+      {
+        "type": "DOUBLES",
+        "status": "TO_BE_PLAYED",
+        "collectionId": "207ED841-53FA-4F0B-844F-520A1974E066",
+        "collectionPosition": 2,
+        "side1": {
+          "team": {
+            "abbreviation": "SJHS"
+          },
+          "displayStatus": null,
+          "participants": [
+            {
+              "personId": "29AEC090-9E2A-40A1-8421-3E8B7E66235F",
+              "firstName": "Cole",
+              "lastName": "Halfpenny"
+            },
+            {
+              "personId": "6040A2FC-F43D-4D7A-A9C0-4908F03B74AA",
+              "firstName": "Benjamin",
+              "lastName": "Brady"
+            }
+          ],
+          "score": null,
+          "didWin": false
+        },
+        "side2": {
+          "team": {
+            "abbreviation": "TCA"
+          },
+          "displayStatus": null,
+          "participants": [],
+          "score": null,
+          "didWin": false
+        }
+      }
+    ],
+    "teams": [
+      {
+        "id": "3c53234a-2243-4fd6-9104-d5daeafefb4f",
+        "name": "Boys Varsity",
+        "score": "5",
+        "didWin": true,
+        "sideNumber": 1,
+        "abbreviation": "SJHS",
+        "division": null,
+        "conference": null,
+        "displayOrder": 1,
+        "parentOrganisation": {
+          "name": "St Joseph High School",
+          "organisation": {
+            "profileImage": {
+              "small": "https://prd0usta0cspark.blob.core.windows.net/image-uploads/c8a11086-393b-420b-aebb-b967cd19cb05.png"
+            }
+          }
+        }
+      },
+      {
+        "id": "9c6fa674-00f2-47ed-96a7-f9490afea668",
+        "name": "Boys Varsity",
+        "score": "0",
+        "didWin": false,
+        "sideNumber": 2,
+        "abbreviation": "TCA",
+        "division": null,
+        "conference": null,
+        "displayOrder": 2,
+        "parentOrganisation": {
+          "name": "Culver Academies",
+          "organisation": {
+            "profileImage": null
+          }
+        }
+      }
+    ],
+    "_gender": "MALE"
+  },
+  {
+    "id": "CE7B8FF9-0BD0-4D57-B2EA-010B1686E099",
+    "startDateTime": {
+      "timezoneName": "America/New_York",
+      "dateTimeString": "2026-10-10T04:00:00.000Z",
+      "noScheduledTime": true
+    },
+    "homeTeam": {
+      "id": "0073ba28-80c3-4f54-b2fc-68bb368a1275"
+    },
+    "scoringFormat": null,
+    "tieFormat": {
+      "name": "3S 2D Full Sets",
+      "collectionDefinitions": [
+        {
+          "name": "Indiana HS Match ",
+          "id": "B8600401-6365-47C2-9AAB-C774E1F76DF9",
+          "matchUpType": "SINGLES"
+        },
+        {
+          "name": "Indiana HS Match",
+          "id": "AB85E739-03EC-4DB4-8FFD-F341A39EBED2",
+          "matchUpType": "DOUBLES"
+        }
+      ]
+    },
+    "tieMatchUps": [
+      {
+        "type": "SINGLES",
+        "status": "COMPLETED",
+        "collectionId": "B8600401-6365-47C2-9AAB-C774E1F76DF9",
+        "collectionPosition": 1,
+        "side1": {
+          "team": {
+            "abbreviation": "SHS"
+          },
+          "displayStatus": null,
+          "participants": [
+            {
+              "personId": "8DFED3B0-29F5-4BFE-8F60-BC906FBCC496",
+              "firstName": "Carter",
+              "lastName": "Stein"
+            }
+          ],
+          "score": {
+            "scoreString": "0-6 0-6",
+            "sets": [
+              {
+                "setScore": "0",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": false
+              },
+              {
+                "setScore": "0",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": false
+              }
+            ]
+          },
+          "didWin": false
+        },
+        "side2": {
+          "team": {
+            "abbreviation": "CGHS"
+          },
+          "displayStatus": {
+            "status": "WINNER",
+            "subStatus": null
+          },
+          "participants": [
+            {
+              "personId": "645968C7-1EA7-4E6C-BC4E-A7EA43EA94D4",
+              "firstName": "Yuvraj",
+              "lastName": "Dasari"
+            }
+          ],
+          "score": {
+            "scoreString": "6-0 6-0",
+            "sets": [
+              {
+                "setScore": "6",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": true
+              },
+              {
+                "setScore": "6",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": true
+              }
+            ]
+          },
+          "didWin": true
+        }
+      },
+      {
+        "type": "SINGLES",
+        "status": "COMPLETED",
+        "collectionId": "B8600401-6365-47C2-9AAB-C774E1F76DF9",
+        "collectionPosition": 2,
+        "side1": {
+          "team": {
+            "abbreviation": "SHS"
+          },
+          "displayStatus": null,
+          "participants": [
+            {
+              "personId": "CC7CAED3-99F7-4EE7-AC14-8A6DE45E5407",
+              "firstName": "Dane",
+              "lastName": "Thompson"
+            }
+          ],
+          "score": {
+            "scoreString": "0-6 4-6",
+            "sets": [
+              {
+                "setScore": "0",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": false
+              },
+              {
+                "setScore": "4",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": false
+              }
+            ]
+          },
+          "didWin": false
+        },
+        "side2": {
+          "team": {
+            "abbreviation": "CGHS"
+          },
+          "displayStatus": {
+            "status": "WINNER",
+            "subStatus": null
+          },
+          "participants": [
+            {
+              "personId": "B3350388-490E-4187-9EB8-D9781347B8E7",
+              "firstName": "Alexander",
+              "lastName": "Kandris"
+            }
+          ],
+          "score": {
+            "scoreString": "6-0 6-4",
+            "sets": [
+              {
+                "setScore": "6",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": true
+              },
+              {
+                "setScore": "6",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": true
+              }
+            ]
+          },
+          "didWin": true
+        }
+      },
+      {
+        "type": "SINGLES",
+        "status": "COMPLETED",
+        "collectionId": "B8600401-6365-47C2-9AAB-C774E1F76DF9",
+        "collectionPosition": 3,
+        "side1": {
+          "team": {
+            "abbreviation": "SHS"
+          },
+          "displayStatus": null,
+          "participants": [
+            {
+              "personId": "FA6AC03B-9E85-4B7B-993A-9CBEED4E5E2B",
+              "firstName": "Cash",
+              "lastName": "Stein"
+            }
+          ],
+          "score": {
+            "scoreString": "1-6 1-6",
+            "sets": [
+              {
+                "setScore": "1",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": false
+              },
+              {
+                "setScore": "1",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": false
+              }
+            ]
+          },
+          "didWin": false
+        },
+        "side2": {
+          "team": {
+            "abbreviation": "CGHS"
+          },
+          "displayStatus": {
+            "status": "WINNER",
+            "subStatus": null
+          },
+          "participants": [
+            {
+              "personId": "18587409-24DA-4AE1-9BC5-496CDFD7392F",
+              "firstName": "Hudson",
+              "lastName": "Pagels"
+            }
+          ],
+          "score": {
+            "scoreString": "6-1 6-1",
+            "sets": [
+              {
+                "setScore": "6",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": true
+              },
+              {
+                "setScore": "6",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": true
+              }
+            ]
+          },
+          "didWin": true
+        }
+      },
+      {
+        "type": "DOUBLES",
+        "status": "COMPLETED",
+        "collectionId": "AB85E739-03EC-4DB4-8FFD-F341A39EBED2",
+        "collectionPosition": 1,
+        "side1": {
+          "team": {
+            "abbreviation": "SHS"
+          },
+          "displayStatus": null,
+          "participants": [
+            {
+              "personId": "A71CF191-B8F7-4A12-B156-0F1CE14D45B0",
+              "firstName": "David",
+              "lastName": "Lemming"
+            },
+            {
+              "personId": "D2E744CD-A165-4501-BB2D-5B5F35146CBC",
+              "firstName": "Braylon",
+              "lastName": "Busby"
+            }
+          ],
+          "score": {
+            "scoreString": "0-6 0-6",
+            "sets": [
+              {
+                "setScore": "0",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": false
+              },
+              {
+                "setScore": "0",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": false
+              }
+            ]
+          },
+          "didWin": false
+        },
+        "side2": {
+          "team": {
+            "abbreviation": "CGHS"
+          },
+          "displayStatus": {
+            "status": "WINNER",
+            "subStatus": null
+          },
+          "participants": [
+            {
+              "personId": "AA5B3CF6-9084-4242-8C6D-B33F5461026F",
+              "firstName": "Austin",
+              "lastName": "Crow"
+            },
+            {
+              "personId": "B802A825-E4B3-4C55-B722-6CB222B40E7B",
+              "firstName": "Maanav",
+              "lastName": "Kamath"
+            }
+          ],
+          "score": {
+            "scoreString": "6-0 6-0",
+            "sets": [
+              {
+                "setScore": "6",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": true
+              },
+              {
+                "setScore": "6",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": true
+              }
+            ]
+          },
+          "didWin": true
+        }
+      },
+      {
+        "type": "DOUBLES",
+        "status": "COMPLETED",
+        "collectionId": "AB85E739-03EC-4DB4-8FFD-F341A39EBED2",
+        "collectionPosition": 2,
+        "side1": {
+          "team": {
+            "abbreviation": "SHS"
+          },
+          "displayStatus": null,
+          "participants": [
+            {
+              "personId": "16DEB2CD-6709-496A-AAFA-4A1B33FF44DD",
+              "firstName": "Max",
+              "lastName": "Payne"
+            },
+            {
+              "personId": "F6952767-C438-4391-88B9-23072F1135A6",
+              "firstName": "Gus",
+              "lastName": "Henry"
+            }
+          ],
+          "score": {
+            "scoreString": "0-6 3-6",
+            "sets": [
+              {
+                "setScore": "0",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": false
+              },
+              {
+                "setScore": "3",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": false
+              }
+            ]
+          },
+          "didWin": false
+        },
+        "side2": {
+          "team": {
+            "abbreviation": "CGHS"
+          },
+          "displayStatus": {
+            "status": "WINNER",
+            "subStatus": null
+          },
+          "participants": [
+            {
+              "personId": "464D490F-A03B-44B5-89C7-1DC7C1CF278A",
+              "firstName": "Jonathan",
+              "lastName": "Cracraft"
+            },
+            {
+              "personId": "B3CEB116-79D8-4ECE-BB19-CED2469A6D9D",
+              "firstName": "Connor",
+              "lastName": "Ray"
+            }
+          ],
+          "score": {
+            "scoreString": "6-0 6-3",
+            "sets": [
+              {
+                "setScore": "6",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": true
+              },
+              {
+                "setScore": "6",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": true
+              }
+            ]
+          },
+          "didWin": true
+        }
+      }
+    ],
+    "teams": [
+      {
+        "id": "0073ba28-80c3-4f54-b2fc-68bb368a1275",
+        "name": "Boys Varsity",
+        "score": "0",
+        "didWin": false,
+        "sideNumber": 1,
+        "abbreviation": "SHS",
+        "division": null,
+        "conference": null,
+        "displayOrder": 2,
+        "parentOrganisation": {
+          "name": "Seymour Senior High School",
+          "organisation": {
+            "profileImage": {
+              "small": "https://prd0usta0cspark.blob.core.windows.net/image-uploads/64f2e827-3325-4181-955e-c181ce4f4f24.jpeg"
+            }
+          }
+        }
+      },
+      {
+        "id": "da4b45d4-a2d5-42cc-8f18-a48d5b108e8f",
+        "name": "Boys Varsity",
+        "score": "5",
+        "didWin": true,
+        "sideNumber": 2,
+        "abbreviation": "CGHS",
+        "division": null,
+        "conference": null,
+        "displayOrder": 1,
+        "parentOrganisation": {
+          "name": "Center Grove High School",
+          "organisation": {
+            "profileImage": {
+              "small": "https://prd0usta0cspark.blob.core.windows.net/image-uploads/b7b32821-47d5-4b7f-b284-05a8594da163.png"
+            }
+          }
+        }
+      }
+    ],
+    "_gender": "MALE"
+  },
+  {
+    "id": "F715D82D-DB2A-441B-A77A-DCDC9C853FBA",
+    "startDateTime": {
+      "timezoneName": "America/New_York",
+      "dateTimeString": "2026-10-10T04:00:00.000Z",
+      "noScheduledTime": true
+    },
+    "homeTeam": {
+      "id": "01d4022f-e920-47c2-b30b-fdb1f4125317"
+    },
+    "scoringFormat": null,
+    "tieFormat": {
+      "name": "3S 2D Full Sets",
+      "collectionDefinitions": [
+        {
+          "name": "Indiana HS Match ",
+          "id": "3DB401C6-B3E9-4D0B-BB11-A6E58C3BF6CE",
+          "matchUpType": "SINGLES"
+        },
+        {
+          "name": "Indiana HS Match",
+          "id": "05456866-484D-47DF-87B0-512A78B13CE5",
+          "matchUpType": "DOUBLES"
+        }
+      ]
+    },
+    "tieMatchUps": [
+      {
+        "type": "SINGLES",
+        "status": "COMPLETED",
+        "collectionId": "3DB401C6-B3E9-4D0B-BB11-A6E58C3BF6CE",
+        "collectionPosition": 1,
+        "side1": {
+          "team": {
+            "abbreviation": "JHS"
+          },
+          "displayStatus": null,
+          "participants": [
+            {
+              "personId": "F3A175BF-278C-408E-AF94-7C19484D6955",
+              "firstName": "Elliott",
+              "lastName": "Rolwing"
+            }
+          ],
+          "score": {
+            "scoreString": "7-5 0-6 4-6",
+            "sets": [
+              {
+                "setScore": "7",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": true
+              },
+              {
+                "setScore": "0",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": false
+              },
+              {
+                "setScore": "4",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": false
+              }
+            ]
+          },
+          "didWin": false
+        },
+        "side2": {
+          "team": {
+            "abbreviation": "BSBT"
+          },
+          "displayStatus": {
+            "status": "WINNER",
+            "subStatus": null
+          },
+          "participants": [
+            {
+              "personId": "E45E69C1-1218-4A9E-8BBC-9C2DDDAA43F6",
+              "firstName": "Caleb",
+              "lastName": "Lian"
+            }
+          ],
+          "score": {
+            "scoreString": "5-7 6-0 6-4",
+            "sets": [
+              {
+                "setScore": "5",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": false
+              },
+              {
+                "setScore": "6",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": true
+              },
+              {
+                "setScore": "6",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": true
+              }
+            ]
+          },
+          "didWin": true
+        }
+      },
+      {
+        "type": "SINGLES",
+        "status": "COMPLETED",
+        "collectionId": "3DB401C6-B3E9-4D0B-BB11-A6E58C3BF6CE",
+        "collectionPosition": 2,
+        "side1": {
+          "team": {
+            "abbreviation": "JHS"
+          },
+          "displayStatus": {
+            "status": "WINNER",
+            "subStatus": null
+          },
+          "participants": [
+            {
+              "personId": "C9DC44FC-D023-47B1-B389-5B3DDEA8AAA5",
+              "firstName": "Nicolas",
+              "lastName": "Aguilera"
+            }
+          ],
+          "score": {
+            "scoreString": "6-2 6-3",
+            "sets": [
+              {
+                "setScore": "6",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": true
+              },
+              {
+                "setScore": "6",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": true
+              }
+            ]
+          },
+          "didWin": true
+        },
+        "side2": {
+          "team": {
+            "abbreviation": "BSBT"
+          },
+          "displayStatus": null,
+          "participants": [
+            {
+              "personId": "739E6645-9699-4889-85CA-604B738298E8",
+              "firstName": "Alexander",
+              "lastName": "Chong"
+            }
+          ],
+          "score": {
+            "scoreString": "2-6 3-6",
+            "sets": [
+              {
+                "setScore": "2",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": false
+              },
+              {
+                "setScore": "3",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": false
+              }
+            ]
+          },
+          "didWin": false
+        }
+      },
+      {
+        "type": "SINGLES",
+        "status": "COMPLETED",
+        "collectionId": "3DB401C6-B3E9-4D0B-BB11-A6E58C3BF6CE",
+        "collectionPosition": 3,
+        "side1": {
+          "team": {
+            "abbreviation": "JHS"
+          },
+          "displayStatus": {
+            "status": "WINNER",
+            "subStatus": null
+          },
+          "participants": [
+            {
+              "personId": "F8EFBE0E-2553-4D93-8525-3EA2F9C3F4A4",
+              "firstName": "Michael",
+              "lastName": "Braun"
+            }
+          ],
+          "score": {
+            "scoreString": "6-1 6-1",
+            "sets": [
+              {
+                "setScore": "6",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": true
+              },
+              {
+                "setScore": "6",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": true
+              }
+            ]
+          },
+          "didWin": true
+        },
+        "side2": {
+          "team": {
+            "abbreviation": "BSBT"
+          },
+          "displayStatus": null,
+          "participants": [
+            {
+              "personId": "F51765A5-0B02-47DC-BA6D-507A1C62C169",
+              "firstName": "Jonah",
+              "lastName": "Gray"
+            }
+          ],
+          "score": {
+            "scoreString": "1-6 1-6",
+            "sets": [
+              {
+                "setScore": "1",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": false
+              },
+              {
+                "setScore": "1",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": false
+              }
+            ]
+          },
+          "didWin": false
+        }
+      },
+      {
+        "type": "DOUBLES",
+        "status": "COMPLETED",
+        "collectionId": "05456866-484D-47DF-87B0-512A78B13CE5",
+        "collectionPosition": 1,
+        "side1": {
+          "team": {
+            "abbreviation": "JHS"
+          },
+          "displayStatus": null,
+          "participants": [
+            {
+              "personId": "49762BD1-0273-46E6-9C53-7CF2C7BAC78F",
+              "firstName": "Charlie",
+              "lastName": "Knies"
+            },
+            {
+              "personId": "A6228A49-897E-4754-B4E0-ACDCF567FFBD",
+              "firstName": "Collin",
+              "lastName": "Werner"
+            }
+          ],
+          "score": {
+            "scoreString": "5-7 1-6",
+            "sets": [
+              {
+                "setScore": "5",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": false
+              },
+              {
+                "setScore": "1",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": false
+              }
+            ]
+          },
+          "didWin": false
+        },
+        "side2": {
+          "team": {
+            "abbreviation": "BSBT"
+          },
+          "displayStatus": {
+            "status": "WINNER",
+            "subStatus": null
+          },
+          "participants": [
+            {
+              "personId": "0C5926CE-B740-4399-9B35-5B7A7C121EAF",
+              "firstName": "William",
+              "lastName": "Liao"
+            },
+            {
+              "personId": "E23A46C5-7B0D-4E28-8942-AB4705A67A80",
+              "firstName": "Abe",
+              "lastName": "Corry"
+            }
+          ],
+          "score": {
+            "scoreString": "7-5 6-1",
+            "sets": [
+              {
+                "setScore": "7",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": true
+              },
+              {
+                "setScore": "6",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": true
+              }
+            ]
+          },
+          "didWin": true
+        }
+      },
+      {
+        "type": "DOUBLES",
+        "status": "COMPLETED",
+        "collectionId": "05456866-484D-47DF-87B0-512A78B13CE5",
+        "collectionPosition": 2,
+        "side1": {
+          "team": {
+            "abbreviation": "JHS"
+          },
+          "displayStatus": {
+            "status": "WINNER",
+            "subStatus": null
+          },
+          "participants": [
+            {
+              "personId": "0B628D26-B093-4D7E-B011-2B4C12EC7620",
+              "firstName": "Karsen",
+              "lastName": "Roth"
+            },
+            {
+              "personId": "B67EE532-A237-4BDF-9D03-EAB14361C101",
+              "firstName": "Eli",
+              "lastName": "Hartings"
+            }
+          ],
+          "score": {
+            "scoreString": "6-3 6-2",
+            "sets": [
+              {
+                "setScore": "6",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": true
+              },
+              {
+                "setScore": "6",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": true
+              }
+            ]
+          },
+          "didWin": true
+        },
+        "side2": {
+          "team": {
+            "abbreviation": "BSBT"
+          },
+          "displayStatus": null,
+          "participants": [
+            {
+              "personId": "06064EA8-36B7-440A-ACC0-5B7405A775EB",
+              "firstName": "Elliot",
+              "lastName": "Trolle-eng"
+            },
+            {
+              "personId": "2ABF0857-374D-45D2-AF7F-9A35197A2131",
+              "firstName": "Matthew",
+              "lastName": "Wu"
+            }
+          ],
+          "score": {
+            "scoreString": "3-6 2-6",
+            "sets": [
+              {
+                "setScore": "3",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": false
+              },
+              {
+                "setScore": "2",
+                "tiebreakSet": false,
+                "tiebreakScore": null,
+                "didWin": false
+              }
+            ]
+          },
+          "didWin": false
+        }
+      }
+    ],
+    "teams": [
+      {
+        "id": "01d4022f-e920-47c2-b30b-fdb1f4125317",
+        "name": "Boys Varsity",
+        "score": "3",
+        "didWin": true,
+        "sideNumber": 1,
+        "abbreviation": "JHS",
+        "division": null,
+        "conference": null,
+        "displayOrder": 2,
+        "parentOrganisation": {
+          "name": "Jasper High School",
+          "organisation": {
+            "profileImage": {
+              "small": null
+            }
+          }
+        }
+      },
+      {
+        "id": "f0a66a4f-b1fb-4e66-bf4f-6f32ce827b68",
+        "name": "Bloomington South Boys Tennis",
+        "score": "2",
+        "didWin": false,
+        "sideNumber": 2,
+        "abbreviation": "BSBT",
+        "division": null,
+        "conference": null,
+        "displayOrder": 1,
+        "parentOrganisation": {
+          "name": "Bloomington High School South",
+          "organisation": {
+            "profileImage": {
+              "small": "https://prd0usta0cspark.blob.core.windows.net/image-uploads/ca181803-5c25-4b3e-8100-8b46e002faed.png"
+            }
+          }
+        }
+      }
+    ],
+    "_gender": "MALE"
   }
 ]
